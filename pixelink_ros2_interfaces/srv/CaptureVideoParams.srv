@@ -1,0 +1,7 @@
+string file_name
+float32 record_time
+int32 decimation
+float32 playback_frame_rate
+---
+int32 return_code
+string return_string

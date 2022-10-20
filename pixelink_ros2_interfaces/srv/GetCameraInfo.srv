@@ -1,0 +1,13 @@
+
+---
+int32 return_code
+string return_string
+string camera_name
+string description
+string firmware_version
+string bootload_version
+string fpga_version
+string xml_version
+string model_name
+string serial_number
+string vendor_name

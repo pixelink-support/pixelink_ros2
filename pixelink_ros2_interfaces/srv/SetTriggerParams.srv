@@ -1,0 +1,8 @@
+int32 mode
+int32 trigger_type
+int32 polarity
+float32 delay
+float32 parameters
+---
+int32 return_code
+string return_string

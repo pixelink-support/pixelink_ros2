@@ -1,0 +1,7 @@
+
+---
+int32 return_code
+string return_string
+string mode
+float32 horizontal
+float32 vertical

@@ -1,0 +1,9 @@
+int32 gpio_number
+int32 mode
+int32 polarity
+float32 parameter_one
+float32 parameter_two
+float32 parameter_three
+---
+int32 return_code
+string return_string

@@ -1,0 +1,12 @@
+
+---
+int32 return_code
+string return_string
+float32 min_left
+float32 min_top
+float32 min_width
+float32 min_height
+float32 max_left
+float32 max_top
+float32 max_width
+float32 max_height
